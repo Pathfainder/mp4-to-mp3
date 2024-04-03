@@ -1,8 +1,6 @@
 # Extract the audio from a video.
 
-I needed to get the audio of (very) long files and didn't want to use an editing software, <br> also didn't manage to find a free service online for a 2h long video 
-
-so I build a python script with a simple Tkinter GUI. 
+I needed to get the audio of (very) long files and didn't want to use an editing software, <br> also didn't manage to find a free service online for 2h long videos... <br> So I build a python script with a simple Tkinter GUI. 
 
 Enjoy;)
 
