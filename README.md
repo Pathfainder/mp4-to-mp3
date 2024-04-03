@@ -32,7 +32,7 @@ pip install moviepy
 6. Activate your python environment : `your_env_name\scripts\activate`
 
 
-7. Run :
+7. Then run :
 ```bash
 py extract_gui.py
 ```
