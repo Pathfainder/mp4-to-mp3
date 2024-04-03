@@ -7,8 +7,8 @@ so I build a python script with a simple Tkinter GUI.
 Enjoy;)
 
 ![GUI](gui.png)
-
-<h3>Installation (Wndows) :</h3>
+</br>
+<h3>Installation (Wndows) :</h3> </br>
 
 1. Clone this repo to your local folser :
 ```bash
