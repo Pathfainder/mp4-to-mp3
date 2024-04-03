@@ -1,7 +1,8 @@
-# mp4-to-mp3
-Simple python script to extract the audio as mp3 from a .mp4 video.
+# mp4-to-mp3 as simple as it sounds..
 
-Installation :
+I just needed to get the audio of a long file and didn't manage to find a free service online so here it is ! 
+
+<h1>Installation :</h1>
 
 1. Clone this repo to your project:
 ```bash
