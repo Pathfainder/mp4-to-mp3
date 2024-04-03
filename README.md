@@ -1,9 +1,11 @@
 # mp4-to-mp3
 Simple python script to extract the audio as mp3 from a .mp4 video.
 
-Get Git here --> (https://git-scm.com/downloads)
-Python here --> (https://www.python.org/downloads)
-And Pip there --> (https://pypi.org/project/pip)
+Get Git here --> https://git-scm.com/downloads
+
+Python here --> https://www.python.org/downloads
+
+And Pip there --> https://pypi.org/project/pip
 
 
 Installation :
