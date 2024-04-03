@@ -20,10 +20,7 @@ git clone https://github.com/Pathfainder/mp4-to-mp3.git
 py -m venv Your_env_name
 ```
 
-'''bash
-
-'''
 3. Install moviepy to allow :
-'''
+```bash
 pip install moviepy
-'''
+```
