@@ -8,12 +8,12 @@ so I build a simple but efficient one ! Enjoy;)
 
 # Installation :
 
-1. Clone this repo to your project:
+1. Clone this repo to your local folser :
 ```bash
 git clone https://github.com/Pathfainder/mp4-to-mp3.git
 ```
 
-2. (optinal) Create a new Python environment in your project folder :
+2. (optinal) Create a new Python environment in your local folder :
 ```bash
 py -m venv your_env_name
 ```
