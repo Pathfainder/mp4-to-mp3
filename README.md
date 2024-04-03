@@ -1,6 +1,9 @@
 mp4-to-mp3 as simple as it sounds..
 
-I just needed to get the audio of (very) long files and didn't manage to find a free service online so here it is ! ;)
+I needed to get the audio of (very) long files. 
+Didn't manage to find a free service online 
+so I build a very simple one ! ;)
+
 ![GUI](gui.png)
 
 # Installation :
