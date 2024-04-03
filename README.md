@@ -19,6 +19,8 @@ pip install moviepy
 ```
 
 
-Get Git here --> https://git-scm.com/downloads .
-Python here --> https://www.python.org/downloads .
-And Pip there --> https://pypi.org/project/pip .
+Get Git here --> https://git-scm.com/downloads 
+
+Python here --> https://www.python.org/downloads 
+
+And Pip there --> https://pypi.org/project/pip 
