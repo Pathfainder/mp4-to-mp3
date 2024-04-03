@@ -8,7 +8,7 @@ Enjoy;)
 
 ![GUI](gui.png)
 
-# Installation (Wndows) :
+<h3>Installation (Wndows) :</h3>
 
 1. Clone this repo to your local folser :
 ```bash
