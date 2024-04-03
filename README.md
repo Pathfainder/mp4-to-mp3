@@ -20,16 +20,14 @@ pip install moviepy
 ```
 4. Click on the adress bar on top of your folder and type `cmd`.
    
-5. Activate your python environment :
-   ```bash
-   your_env_name\scripts\activate
+5. Activate your python environment : `your_env_name\scripts\activate`
    
 6. Run :
 ```bash
 py extract_gui.py
 ```
 
-9. Enjoy ! ;)
+7. Enjoy ! ;)
 
 
 Get Git here --> https://git-scm.com/downloads 
