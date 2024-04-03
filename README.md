@@ -1,4 +1,4 @@
-mp4-to-mp3 as simple as it sounds..
+# Extract the audio from a video.
 
 I needed to get the audio of (very) long files and didn't manage to find a free service online 
 
