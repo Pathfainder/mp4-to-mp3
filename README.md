@@ -1,6 +1,6 @@
 mp4-to-mp3 as simple as it sounds..
 
-I just needed to get the audio of a long file and didn't manage to find a free service online so here it is ! 
+I just needed to get the audio of (very) long files and didn't manage to find a free service online so here it is ! ;)
 
 # Installation :
 
