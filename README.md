@@ -2,15 +2,20 @@
 Simple python script to extract the audio as mp3 from a .mp4 video.
 
 Installation :
-First clone this repo to your local project:
-'''bash
+1. Clone this repo to your local project:
+`
 git clone https://github.com/Pathfainder/mp4-to-mp3.git
-'''
-Create a new Python environment in your folder :
-'''bash
+`
+
+2. Create a new Python environment in your folder :
+```bash
 py -m venv Your_env_name
+```
+
+'''bash
+
 '''
-Then install moviepy to make the magic happen :
+3. Install moviepy to allow :
 '''
 pip install moviepy
 '''
