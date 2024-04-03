@@ -39,7 +39,7 @@ py extract_gui.py
 
 
 7. Enjoy ! ;)
-
+<br><br>
 
 Get Git here --> https://git-scm.com/downloads 
 
