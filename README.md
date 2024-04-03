@@ -11,16 +11,20 @@ git clone https://github.com/Pathfainder/mp4-to-mp3.git
 
 2. (optinal) Create a new Python environment in your project folder :
 ```bash
-py -m venv Your_env_name
+py -m venv your_env_name
 ```
 
-3. Install moviepy to allow video processing :
+3. Install `moviepy` to allow video processing :
 ```bash
 pip install moviepy
 ```
-4. Click on the adress bar on top of your folder and type `cmd`
+4. Click on the adress bar on top of your folder and type `cmd`.
    
-5. Run :
+5. Activate your python environment :
+   ```bash
+   your_env_name\scripts\activate
+   
+6. Run :
 ```bash
 py extract_gui.py
 ```
