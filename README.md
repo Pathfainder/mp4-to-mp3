@@ -2,7 +2,9 @@
 
 I needed to get the audio of (very) long files and didn't want to use an editing software, also didn't manage to find a free service online 
 
-so I build a simple but efficient one ! Enjoy;)
+so I build a python script with a simple Tkinter GUI. 
+
+Enjoy;)
 
 ![GUI](gui.png)
 
