@@ -8,14 +8,14 @@ Enjoy;)
 
 ![GUI](gui.png)
 
-# Installation :
+# Installation (Wndows) :
 
 1. Clone this repo to your local folser :
 ```bash
 git clone https://github.com/Pathfainder/mp4-to-mp3.git
 ```
 
-2. (optinal) Create a new Python environment in your local folder :
+2. (If you don't already have one) Create a new Python environment in your local folder :
 ```bash
 py -m venv your_env_name
 ```
