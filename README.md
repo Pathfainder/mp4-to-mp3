@@ -19,9 +19,12 @@ pip install moviepy
 ```
 4. Click on the adress bar on top of your folder and type `cmd`
    
-5. Run `py extract_gui.py`
+5. Run :
+```bash
+py extract_gui.py
+```
 
-6. Enjoy ! ;)
+9. Enjoy ! ;)
 
 
 Get Git here --> https://git-scm.com/downloads 
