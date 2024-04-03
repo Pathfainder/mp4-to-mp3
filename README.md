@@ -1,6 +1,6 @@
 # Extract the audio from a video.
 
-I needed to get the audio of (very) long files and didn't manage to find a free service online 
+I needed to get the audio of (very) long files and didn't want to use an editing software, also didn't manage to find a free service online 
 
 so I build a simple but efficient one ! Enjoy;)
 
