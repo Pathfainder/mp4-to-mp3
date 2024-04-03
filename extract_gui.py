@@ -9,23 +9,15 @@ class AudioExtractorApp:
         self.setup_gui()
 
     def setup_gui(self):
-        self.root.title("Audio Extractor")
-        self.root.configure(background='#add8e6')  # A lovely shade of pastel blue
-
-        # File path display
+        self.root.title("Mp4 to Mp3")
+        self.root.configure(background='#add8e6')  
         self.file_path_var = tk.StringVar()
         self.file_path_label = tk.Label(self.root, textvariable=self.file_path_var, bg='#add8e6')
         self.file_path_label.pack()
-
-        # Browse button
         self.browse_button = tk.Button(self.root, text="Browse", command=self.browse_file, bg='#b3cde0')
         self.browse_button.pack()
-
-        # Extract button
         self.extract_button = tk.Button(self.root, text="Extract Audio", command=self.extract_audio, bg='#b3cde0')
         self.extract_button.pack()
-
-        # Status message
         self.status_var = tk.StringVar()
         self.status_label = tk.Label(self.root, textvariable=self.status_var, bg='#add8e6')
         self.status_label.pack()
@@ -50,5 +42,5 @@ class AudioExtractorApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = AudioExtractorApp(root)
-    root.geometry("400x200")
+    root.geometry("250x100")
     root.mainloop()
